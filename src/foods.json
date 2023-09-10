@@ -1,0 +1,55 @@
+{
+    "recommendedFoods": [
+      {
+        "name": "Salad",
+        "calories": 200,
+        "image": "food.jpeg"
+      },
+      {
+        "name": "Grilled Chicken",
+        "calories": 300,
+        "image": "food.jpeg"
+      },
+      {
+        "name": "Steamed Broccoli",
+        "calories": 100,
+        "image": "food.jpeg"
+      },
+      {
+        "name": "Quinoa",
+        "calories": 150,
+        "image": "food.jpeg"
+      },
+      {
+        "name": "Brown Rice",
+        "calories": 180,
+        "image": "food.jpeg"
+      },
+      {
+        "name": "Salmon",
+        "calories": 250,
+        "image": "food.jpeg"
+      },
+      {
+        "name": "Spinach",
+        "calories": 30,
+        "image": "food.jpeg"
+      },
+      {
+        "name": "Greek Yogurt",
+        "calories": 120,
+        "image": "food.jpeg"
+      },
+      {
+        "name": "Almonds",
+        "calories": 180,
+        "image": "food.jpeg"
+      },
+      {
+        "name": "Avocado",
+        "calories": 150,
+        "image": "food.jpeg"
+      }
+    ]
+  }
+  
